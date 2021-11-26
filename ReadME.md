@@ -33,14 +33,14 @@ each implementation will have tests written for it as we go along
 
 ## Resources For Learning
 
-Javascript Data structures by Sammie Bae
-https://github.com/labuladong/fucking-algorithm
-Grokking Algorithms
-visualgo.net
-https://github.com/trekhleb/javascript-algorithms
-Testing Javascript Applications by Luca Da Costa
-https://www.youtube.com/watch?v=0IAPZzGSbME
-https://www.youtube.com/watch?v=B31LgI4Y4DQ&t=1s
+- Javascript Data structures by Sammie Bae
+- https://github.com/labuladong/fucking-algorithm
+- Grokking Algorithms
+- visualgo.net
+- https://github.com/trekhleb/javascript-algorithms
+- Testing Javascript Applications by Luca Da Costa
+- https://www.youtube.com/watch?v=0IAPZzGSbME
+- https://www.youtube.com/watch?v=B31LgI4Y4DQ&t=1s
 
 
 ## Contributions
