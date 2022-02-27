@@ -1,0 +1,1 @@
+arr.splice(arr[i], 1);
