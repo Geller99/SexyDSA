@@ -18,7 +18,7 @@ class Queue {
     this.size = 0;
   }
 
-  addToQueue(value) {
+  enQueue(value) {
     let newNode = new Node(value);
 
     if (!this.first) {
@@ -63,10 +63,16 @@ class Node {
 
 let newQueue = new Queue();
 
-newQueue.addToQueue(2);
-newQueue.addToQueue(3);
-newQueue.addToQueue(4);
-newQueue.addToQueue(5);
-newQueue.deQueue();
+newQueue.enQueue(2);
+newQueue.enQueue(3);
+newQueue.enQueue(4);
+newQueue.enQueue(5);
 
+
+console.log(newQueue);
+newQueue.deQueue();
+console.log(newQueue);
+newQueue.deQueue();
+console.log(newQueue);
+newQueue.deQueue();
 console.log(newQueue);

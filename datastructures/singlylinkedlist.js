@@ -18,6 +18,7 @@ class SinglyLinkedList {
     this.head = null;
     this.tail = null;
   }
+  
   push(val) {
     let newNode = new Node(val);
     if (this.head === null) {
